@@ -1,11 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🚀&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<h1 font ="poppins"> Drisstein. 😊</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Drisstein&height=100&fontSize=50&fontAlign=70&fontAlignY=40&desc=🚀%20Tech%20Enthusiast%20|%20AI%20|%20Blockchain&descSize=20&descAlign=73&descAlignY=60&font=Poppins" />
-</p>
-
+<h1 font ="poppins"> Drisstein.</h1>
+--
 <h2 align="center">👨‍💻 Welcome to my GitHub! 🚀</h2>
 <h3 align="Center">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ</h3>
 
@@ -38,17 +35,26 @@ _Solution innovante pour [ajoute une courte description]_ 🚀
 
 ### 📊 GitHub Stats  
 
+## 🚀 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drisstein&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <a href="https://github.com/Drisstein">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Drisstein&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Drisstein">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Drisstein&theme=radical&hide_border=true&background=0D1117" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drisstein&theme=radical" alt="GitHub Streak"/>
+  <a href="https://github.com/Drisstein">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drisstein&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Drisstein">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Drisstein&theme=radical" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drisstein&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
