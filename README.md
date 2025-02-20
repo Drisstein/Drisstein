@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🚀&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<h1 font ="poppins"> Drisstein.</h1>
---
 <h2 align="center">👨‍💻 Dalléne ak diamm to my GitHub! 🚀</h2>
 <h3 align="Center">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ</h3>
 
