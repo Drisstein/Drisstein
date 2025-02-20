@@ -3,7 +3,7 @@
 </p>
 <h1 font ="poppins"> Drisstein.</h1>
 --
-<h2 align="center">👨‍💻 Welcome to my GitHub! 🚀</h2>
+<h2 align="center">👨‍💻 Dalléne ak diamm to my GitHub! 🚀</h2>
 <h3 align="Center">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ</h3>
 
 <img align="right" src="https://media.giphy.com/media/WUxEEsQVMT1f95fb05/giphy.gif" width="280" height="200"/>
@@ -17,11 +17,11 @@
 ---
 
 ### 🏆 Hackathon Wins  
-🥇 **Blockchain in Dakar (BAM)** – Projet **Ndugu APP**  
+🥇 **Blockchain in Dakar (BAM) 2024** – Projet **Ndugu APP**  
 _A marketplace pour la traçabilité des produits agricoles_ 🌱  
 
 🥇 **Hackathon Sonatel Sunu Gox 2024** – Projet **Aldalil Attijaani**  
-_Solution innovante pour [ajoute une courte description]_ 🚀  
+_The first web App library and more for Hadara Tijanoani_ 🚀  
 
 ---
 
@@ -33,7 +33,6 @@ _Solution innovante pour [ajoute une courte description]_ 🚀
 
 ---
 
-### 📊 GitHub Stats  
 
 ## 🚀 GitHub Stats & Activity
 
