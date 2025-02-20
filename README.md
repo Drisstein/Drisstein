@@ -1,8 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🚀&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-### <h1> MANE LA DRISSTEIN 😊</h1>
+<h1 font ="poppins"> Drisstein. 😊</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Drisstein&height=100&fontSize=50&fontAlign=70&fontAlignY=40&desc=🚀%20Tech%20Enthusiast%20|%20AI%20|%20Blockchain&descSize=20&descAlign=73&descAlignY=60&font=Poppins" />
+</p>
+
 <h2 align="center">👨‍💻 Welcome to my GitHub! 🚀</h2>
+<h3 align="Center">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ</h3>
 
 <img align="right" src="https://media.giphy.com/media/WUxEEsQVMT1f95fb05/giphy.gif" width="280" height="200"/>
 
