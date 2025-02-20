@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🚀&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
+### <h1> MANE LA DRISSTEIN 😊</h1>
 <h2 align="center">👨‍💻 Welcome to my GitHub! 🚀</h2>
 
-<img align="right" src="https://giphy.com/embed/WUxEEsQVMT1f95fb05" width="280" height="200"/>
+<img align="right" src="https://media.giphy.com/media/WUxEEsQVMT1f95fb05/giphy.gif" width="280" height="200"/>
 
 ### 👋 Who am I?
 💻 I'm **@Drisstein**, a tech enthusiast passionate about everything digital!  
@@ -12,16 +12,44 @@
 🌱 Advocate for **Green Digital Skills** & **Tech Accessibility for Kids**.  
 ⚡ Fun fact: I often find my future teachers in the same training sessions I attend—small world, right? 😆  
 
-### 💡 What I'm up to
-- 🚀 Exploring new **Digital ID solutions** in **West Africa**  
-- 🤝 Collaborating on **AI projects, workshops, and meetups**  
-- 🔍 Always eager to **learn, share, and innovate**  
+---
+
+### 🏆 Hackathon Wins  
+🥇 **Blockchain in Dakar (BAM)** – Projet **Ndugu APP**  
+_A marketplace pour la traçabilité des produits agricoles_ 🌱  
+
+🥇 **Hackathon Sonatel Sunu Gox 2024** – Projet **Aldalil Attijaani**  
+_Solution innovante pour [ajoute une courte description]_ 🚀  
+
+---
+
+### 🚀 What I'm up to
+- 🔍 Exploring **Digital ID solutions in West Africa**  
+- 🤝 Organizing **AI workshops & meetups** as an ambassador at **Galsen AI**  and **FORCE-N**
+- 🔗 Building innovative **Blockchain & AI projects**
+-   Impacting communities sharing IT Love as **UADB TECH CLUB** Coordinator
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drisstein&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drisstein&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drisstein&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
 
 ### 📫 Get in touch!
 🌍 Find all my links here → [**Bento Profile**](https://bento.me/drisstein)  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drisstein&theme=radical"/>
-</p>
+🔥 _"Code, Learn, Share, Repeat!"_ 🔥
